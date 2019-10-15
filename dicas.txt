@@ -1,0 +1,17 @@
+iniciar api rest node
+yarn init -y 
+
+
+instalar express
+yarn add express or npm install express 
+
+Instalar para não ter que fica parando e voltando o servidor.
+o -D é para colocar como devDependencies 
+yarn add nodemon -D
+
+
+depois de instalado o nodemon, para iniciar a aplicação usar
+yarn dev 
+
+instalar dependencies para mongo
+yarn add mongoose
